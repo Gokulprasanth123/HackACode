@@ -1,0 +1,6 @@
+ fresh apples
+ fresh bananas
+ fresh oranges
+ rotten apples
+ rotten oranges
+ rotten bananas
